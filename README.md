@@ -30,7 +30,7 @@ Since most repos are private, here’s a snapshot of what I’ve built (availabl
 - **CleanSweep** · *React, Next.js, PostgreSQL, TypeScript, Tailwind*  
   A **community-driven waste management platform** that motivates eco-friendly actions through points and rewards. Includes a Gemini AI–based verification system that validates waste collection with before-and-after images, promoting trust and accountability among users.  
 
-- **BlogSpot** · *Java, Spring Boot, Spring Security, PostgreSQL*  
+- **BlogPress** · *Java, Spring Boot, Spring Security, PostgreSQL*  
 A **backend-focused blogging platform** supporting post drafting, publishing, categorization, and tagging. Built with JPA entity relationships and transactional services for reliability, and secured with a JWT-based authentication system that protects content creation while keeping published posts public.
 
 - **Cairn** · *React, Express, Vite, TypeScript, Tailwind*  
