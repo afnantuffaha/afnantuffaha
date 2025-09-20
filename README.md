@@ -9,6 +9,8 @@
 ## 🚀 About Me  
 I’m a computer science student at Northeastern University with a concentration in **software** and a minor in **mathematics**. I enjoy designing scalable backend systems, building clean user interfaces, and applying problem-solving to create impactful tools. My work spans across both **frontend and backend development**, with a strong focus on building thoughtful, maintainable software.  
 
+Outside of code, you'll likely find me singing, playing with my pet bunny, or drinking way too much Pepsi.
+
 ---
 
 ## 🛠️ Technical Skills  
